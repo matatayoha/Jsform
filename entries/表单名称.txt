@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>系统发生异常错误</title>
+
+<link type="text/css" rel="stylesheet" href="/rs/css/errornew.css" />
+</head>
+<body>
+<div class="main">
+    <div class="error-bg">
+        <div class="msgBox">
+            <div class='error-header'>500</div>
+            <div class='error-content'>
+                <p>500-系统发生异常错误</p>
+                <p>您当前正在访问的程序可能出现问题，请与管理员联系，对此带来的不便我们深表歉意。</p>
+            </div>
+            <div class='error-back'>
+                <a  href='javascript:window.history.back()' class='g-button blue'>返回</a>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
